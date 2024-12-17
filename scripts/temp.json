@@ -1,0 +1,1 @@
+{"resource":"network","cloud":"gcp","vpc_network_name":"test-vpc","vpc_cidr":"10.0.0.0/12","region":"us-east1","gcp_project_id":"sandbox-422716","resource_group_name":"test-rg","az_subscription_id":"cb4f4e34-6ecb-4e0a-a378-dd7de502d12e"}

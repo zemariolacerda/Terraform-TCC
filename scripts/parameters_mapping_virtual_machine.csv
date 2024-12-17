@@ -1,0 +1,6 @@
+GenericParameter,AWSParameter,AzureParameter,GCPParameter
+OperatingSystem,AmazonLinux,Ubuntu,Debian
+VMSize,small,t2.micro,B1s,e2-micro
+DiskSizeGB,30,osDisk.sizeGB,30
+EnablePublicIP,true,publicIPAddress,assignPublicIp
+InstanceProfile,general_purpose,standard_DS1_v2,n1-standard-1

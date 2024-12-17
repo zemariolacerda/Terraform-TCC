@@ -1,0 +1,7 @@
+{
+    "vm_name": "my-vm",
+    "vm_size": "t2.micro",
+    "vm_image": "ami-0c55b159cbfafe1f0",  // Exemplo para AWS
+    "admin_username": "admin",
+    "admin_password": "P@ssword123"
+}

@@ -1,0 +1,6 @@
+{
+    "db_name": "mydatabase",
+    "db_user": "dbuser",
+    "db_password": "DbP@ssword123",
+    "db_instance_class": "db.t2.micro"
+}
